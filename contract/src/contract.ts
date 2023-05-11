@@ -17,6 +17,8 @@ import { NearBindgen, near, call, view, UnorderedMap, Vector } from 'near-sdk-js
 
 // get_posts_by_tag
 // near view dev-1667723773628-84611716458448 get_posts_by_tag '{"tag": "game development"}'
+
+//asd 
 class Post{
   id: string;
   title: string;

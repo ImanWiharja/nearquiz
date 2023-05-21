@@ -1,3 +1,4 @@
+/*
 import { NearBindgen, near, call, view, UnorderedMap, Vector } from 'near-sdk-js';
 // accountId:
 // new dev-1667723773628-84611716458448
@@ -145,3 +146,5 @@ class SocialMedia {
   }
 
 }
+
+*/

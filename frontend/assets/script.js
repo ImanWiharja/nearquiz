@@ -1,10 +1,10 @@
 const questions = [
     {
-        question: "Which is the largest animal in the world?",
+        question: "Lorem ipsum",
         answers:[
-            {text: "Your Mom", correct: true},
-            {text: "Blue Whale", correct: false},
-            {text: "Shark", correct: false},
+            {text: "dolor", correct: true},
+            {text: "sit", correct: false},
+            {text: "amet", correct: false},
             {text: "Elephant", correct: false},
             
         ]
